@@ -20,7 +20,7 @@ from policy_value_net_numpy import PolicyValueNetNumpy
 #
 #
 # dfd
-#
+
 
 class Human(object):
     """
