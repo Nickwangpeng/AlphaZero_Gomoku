@@ -7,6 +7,7 @@ from __future__ import print_function
 import numpy as np
 #
 # test
+# dsfsd
 
 class Board(object):
     """board for the game"""
