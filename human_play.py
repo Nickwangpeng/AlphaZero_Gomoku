@@ -19,6 +19,7 @@ from policy_value_net_numpy import PolicyValueNetNumpy
 #
 #
 #
+#
 
 class Human(object):
     """
