@@ -6,6 +6,7 @@
 from __future__ import print_function
 import numpy as np
 #
+# test
 
 class Board(object):
     """board for the game"""
