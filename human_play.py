@@ -17,6 +17,7 @@ from policy_value_net_numpy import PolicyValueNetNumpy
 # from policy_value_net_tensorflow import PolicyValueNet # Tensorflow
 # from policy_value_net_keras import PolicyValueNet  # Keras
 #
+#
 
 class Human(object):
     """
